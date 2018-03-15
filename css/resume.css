@@ -210,3 +210,17 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+#contenedorCarousel{
+  width: 90vh;
+  margin:auto;
+  margin-top:5vh;
+  
+}
+#contenedorMarcas{
+  margin-top:1.5vh;  
+}
+.imagenHome{
+  margin-top:1.5vh;
+  width: 24vh;
+}
