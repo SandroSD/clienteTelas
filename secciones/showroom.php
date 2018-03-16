@@ -7,7 +7,7 @@
         <p>Ofrecemos asesoramiento personalizado y presupuestos para cada proyecto.</p>
         <p>Contamos con personal capacitado para asesorarte con cualquiera de nuestros productos.</p>
         <p>Valoramos el aporte que hacen nuestros clientes en su trabajo cotidiano, y lo consideramos para proximas sugerencias.</p>
-        <p>Estamos en la constante búsqueda por brindar soluciones para los proyectos actuales,incorporamos el reciclado de goma espuma. Con esta nueva propuesta, brindamos una solución eficiente, económica y práctica.</p>            
+        <p>Estamos en la búsqueda constante de soluciones para los distintos proyectos que se nos presentan; por ejemplo, sumamos el reciclado de goma espuma. Con esta incorporación, te acercamos una propuesta eficiente, económica y práctica.</p>            
         </div>
         </div>          
     </div>
