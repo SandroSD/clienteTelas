@@ -1,28 +1,6 @@
-.tamImgTelas{
-  font-size: 30px !important;
-}
-.btnTelasPlasticas{
-  float:right;
-  padding-top:0.3rem;
-  padding-bottom:0.3rem;    
-  padding-left:0.4rem;
-  padding-right:0.4rem;
-  background-color: #BD5D38;
-  border: 0;
-}
 
-#telasPlasticasLista{
-  max-height: 80vh;
-  overflow-y:scroll;
-}
 #navbarSupportedContent ul .subcategorias{
-  margin-right: 17px;
-}
-h4{
-  font-size: 2rem;
-}
-h6{
-  font-size: 1.5rem;
+ // margin-right: 17px;
 }
 body {
   font-family: 'Open Sans', serif;
@@ -55,12 +33,7 @@ li{
   }
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   //text-transform: uppercase;
@@ -222,5 +195,28 @@ a:hover, a:focus, a:active {
 }
 .imagenHome{
   margin-top:1.5vh;
-  width: 24vh;
+  width: 24vw;
+}
+.tamImgTelas{
+  font-size: 30px !important;
+}
+.btnTelasPlasticas{
+  float:right;
+  padding-top:0.3rem;
+  padding-bottom:0.3rem;    
+  padding-left:0.4rem;
+  padding-right:0.4rem;
+  background-color: #BD5D38;
+  border: 0;
+}
+
+#telasPlasticasLista{
+  max-height: 80vh;
+  overflow-y:scroll;
+}
+h4{
+  font-size: 2rem;
+}
+h6{
+  font-size: 1.5rem;
 }
