@@ -4,15 +4,9 @@
 
         <div class="col-lg-12">
             <div id="contenido">
-                <p>Somos una empresa radicada en zona oeste de la provincia de Buenos Aires en la localidad de ituzaingo.</p>
-                <p>Distribuimos telas, cuerinas, goma espuma (cortes a medida) e insumos de tapiceria.</p>
-                <p>Siempre ofreciendo calidad, variedad y precios , sumando con ellos 2 decadas de trayectoria.</p>
-                <p>Ademas cortamos todo tipo de calidades y medidas de gomas espumas.</p>
-                <p>Realizamos trabajos como almohadas , almohadones, y colchones.</p>
-                <p>Confecciones de lonas.</p>
-                <p>Nuestro esfuerzo y trabajo subrayan la trayectoria en la distribuiciòn de nuestros productos.</p>
-                <p>Escuchamos ,observamos y fundamentalmente nos comprometemos, a la demanda del cliente y eso nos lleva a un camino de mejorar y brindar una buena atencion. </p>
-                <p>Seguplast ,no tiene lema o frase que nos identifique, directamente es acciòn y compromiso , en estar lo que necesita el cliente.</p>
+            <p>Somos una organización que desde hace dos décadas,  vende y distribuye telas,  goma espuma e insumos de tapicería, en el Oeste de la provincia de Buenos Aires,  más específicamente, en la localidad de Ituzaingó.</p>
+            <p>En Seguplast, también realizamos trabajos de almohadas, almohadones, colchones y confección de lonas. Este amplio abanico de servicios, junto al precio y a la calidad de nuestros productos, hoy nos destaca entre los comerciantes del rubro.</p>
+            <p>Nuestra identidad radica en la acción y el compromiso: escuchamos, observamos y trabajamos día a día para brindarle al cliente los productos que mejor satisfagan sus necesidades.</p>
             </div>            
         </div>        
     </div>

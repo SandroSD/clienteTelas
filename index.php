@@ -53,13 +53,13 @@
             <a class="nav-link js-scroll-trigger" href="#telasPorTipo">Telas por Tipo <i class="far fa-square titCirc"></i></a>
           </li>
           <li class="nav-item subcategorias">
-            <a class="nav-link js-scroll-trigger" href="#education">Telas por Uso <i class="far fa-square titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger" href="#telasPorUso">Telas por Uso <i class="far fa-square titCirc"></i></a>
           </li>
           <li class="nav-item subcategorias">
-            <a class="nav-link js-scroll-trigger" href="#education">Goma Espuma <i class="far fa-square titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger" href="#gomaEspuma">Goma Espuma <i class="far fa-square titCirc"></i></a>
           </li>
           <li class="nav-item subcategorias">
-            <a class="nav-link js-scroll-trigger" href="#education">Accesorios <i class="far fa-square titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger" href="#accesorios">Accesorios <i class="far fa-square titCirc"></i></a>
           </li>        
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#skills">Showroom <i class="far fa-circle titCirc"></i></a>
@@ -81,6 +81,9 @@
         include_once("secciones/home.php"); 
         include_once("secciones/queHacemos.php");
         include_once("secciones/telasPorTipo.php");
+        include_once("secciones/telasPorUso.php");
+        include_once("secciones/gomaEspuma.php");
+        include_once("secciones/accesorios.php");        
         include_once("secciones/showroom.php");
         include_once("secciones/ubicacion.php");
         include_once("secciones/contacto.php");

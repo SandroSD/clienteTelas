@@ -224,3 +224,32 @@ h6{
 #contenido{
   margin-top:50px;
 }
+#imagenGE{
+  width: 30vw;
+  height: 45vh;
+  margin-left:3%;
+  margin-bottom: 3%;
+  border: 1px solid black;
+  //border-bottom: 2px solid black;
+}
+#accesorios .accesoriosT{
+  width: 100%;
+  //background:blue;
+  text-align: center;
+  margin: 10px;
+}
+.imgAcc{
+  border-radius:100px;
+  border:1px black solid;
+}
+
+/*.accesoriosT:hover{
+  font-weight: bold;
+  font-size: 1.2em;  
+}*/
+.imgAcc:hover{
+  font-weight: bold;
+  font-size: 1.2em;  
+  border: 2px black solid;
+  border-radius: 10px;
+}
