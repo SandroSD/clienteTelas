@@ -33,13 +33,13 @@
                 <div class="col-md-12 col-sm-12">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, odit neque? Esse, non dolore error repudiandae labore soluta facilis quod dolorem
                     <div class="row">
-                    <div class="col-md-3 col-sm-6 col-lg-4">
+                    <div class="col-md-3 col-sm-6 col-lg-4 col-12">
                         <img src="img/home/plavinil.png" class="imagenHome">
                     </div>
-                    <div class="col-md-3 col-sm-6 col-lg-4">
+                    <div class="col-md-3 col-sm-6 col-lg-4 col-12">
                         <img src="img/home/adisa.png" class="imagenHome">
                     </div>
-                    <div class="col-md-3 col-sm-6 col-lg-4">
+                    <div class="col-md-3 col-sm-6 col-lg-4 col-12">
                         <img src="img/home/dominante.png" class="imagenHome">
                     </div>
                     <!--div class="col-md-3 col-sm-6 col-lg-3">

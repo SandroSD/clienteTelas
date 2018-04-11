@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 6rem;
+  font-size: 5.5rem;
   line-height: 5.5rem;
 }
 
@@ -185,17 +185,21 @@ a:hover, a:focus, a:active {
 }
 
 #contenedorCarousel{
-  width: 90vh;
+  width: 80vh;
   margin:auto;
   margin-top:5vh;
-  
+}
+@media (max-width: 576px){
+  #contenedorCarousel{
+    width:60vh;
+  }
 }
 #contenedorMarcas{
   margin-top:1.5vh;  
 }
 .imagenHome{
   margin-top:1.5vh;
-  width: 14vw;
+  width: 100%;
 }
 .tamImgTelas{
   font-size: 30px !important;
@@ -225,7 +229,7 @@ h6{
   margin-top:50px;
 }
 #imagenGE{
-  width: 30vw;
+  width: 100%;
   height: 45vh;
   margin-left:3%;
   margin-bottom: 3%;
@@ -243,13 +247,15 @@ h6{
   border:1px black solid;
 }
 
-/*.accesoriosT:hover{
+.accesoriosT:hover{
   font-weight: bold;
-  font-size: 1.2em;  
-}*/
+  font-size: 1.2em;    
+}
 .imgAcc:hover{
   font-weight: bold;
   font-size: 1.2em;  
   border: 2px black solid;
-  border-radius: 10px;
+  transform: scale(1.2,1.2);
+  //transform: translateY(-10px);
+  //border-radius: 10px;   
 }

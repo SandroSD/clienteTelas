@@ -7,9 +7,9 @@
                     <div class="col-lg-12">
                         <div class="row">
                             <div class="col-lg-4">
-                                <div class="accesoriosT">                                                                    
-                                    <img class="imgAcc" src="img/nuestrosProductos/accesorios/cartones.jpg" alt="">
-                                    <div class="txtAcc">Carton</div>
+                                <div class="accesoriosT">                                    
+                                        <img class="imgAcc" src="img/nuestrosProductos/accesorios/cartones.jpg" alt="">
+                                        <div class="txtAcc">Carton</div>                                                                                                                        
                                 </div>
                             </div>
                             <div class="col-lg-4">
@@ -20,7 +20,7 @@
                             </div>
                             <div class="col-lg-4">
                                 <div class="accesoriosT">                                    
-                                    <img src="img/nuestrosProductos/accesorios/cierresDeslisadores.jpg" alt="">                                    
+                                    <img class="imgAcc" src="img/nuestrosProductos/accesorios/cierresDeslisadores.jpg" alt="">                                    
                                     <div class="txtAcc">Cierre</div>
                                 </div>
                             </div>

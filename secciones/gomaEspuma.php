@@ -2,7 +2,7 @@
     <div class="my-auto">
         <h2 class="mb-5">Goma Espuma</h2>
         <div class="row">
-        <div class="col-md-12">
+        <div class="col-lg-6 col-12">
         <div>
             <img class="rounded-circle" id="imagenGE" src="img/nuestrosProductos/gomaEspuma/ge1.jpg" />
         </div>
