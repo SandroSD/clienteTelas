@@ -21,6 +21,7 @@
     <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
     <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 
+
     <!-- Custom styles for this template -->
     <link href="css/resume.css" rel="stylesheet">
 
@@ -70,6 +71,7 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#awards">Contacto <i class="far fa-circle titCirc"></i></a>
           </li>
+
         </ul>
       </div>
     </nav>
@@ -87,6 +89,8 @@
         include_once("secciones/showroom.php");
         include_once("secciones/ubicacion.php");
         include_once("secciones/contacto.php");
+
+        include_once("modalTelas.php");
 
       ?>
 
