@@ -1,5 +1,5 @@
-<section class="resume-section p-3 p-lg-5" id="awards">
-    <div class="mt-5">
+<section class="resume-section p-lg-1" id="awards">
+    <div class="mt-1">
         <h2 class="mb-3">Contacto</h2>
         <div class="row">
         <div class="col-md-7">
