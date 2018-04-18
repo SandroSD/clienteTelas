@@ -31,7 +31,7 @@
                     </a>
                     </h5>
                 </div>
-                <div id="collapseTwoo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
+                <div id="collapseTwoo" role="tabpanel" aria-labelledby="headingTwo">
                     <div class="card-block">
                         <p>Contamos con una amplia variedad de telas y cuerinas, entre ellas podemos nombrar 
                         al <strong>Chinille</strong>, tejido disponible en dos medias 1.40 y 3 metros de ancho con variedad en colores; 

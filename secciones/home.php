@@ -16,9 +16,18 @@
                     </div>                    
                 </div>
             </div>
+            <div class="col-12 col-md-12 col-sm-12 mt-3">
+            <p align="right" style="margin-left:0.1em;">Acompañando tus ideas.</p>
+            <div id="contenidoNoticias">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
+            </div>
+        </div>
             <div id="contenedorMarcas">
-                <div class="col-12 col-md-12 col-sm-12">
-                    Acompañando tus ideas.
+                <div class="col-12 col-md-12 col-sm-12">                    
                     <div class="row">
                     <div class="col-4 col-md-3 col-sm-6 col-lg-4">
                         <img src="img/home/plavinil.png" class="imagenHome">
@@ -33,15 +42,6 @@
                                       
                 </div>
             </div>
-        </div>
-        <div class="col-12 col-md-12 col-sm-12 mt-3">
-        <div id="contenidoNoticias">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
-        </div>
-        </div>         
+        </div>                 
     </div>
 </section>

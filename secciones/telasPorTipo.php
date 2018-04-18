@@ -36,7 +36,7 @@
                     </a>
                     </h5>
                 </div>
-                <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
+                <div id="collapseTwo"  role="tabpanel" aria-labelledby="headingTwo" active>
                     <div class="card-block">
                     <p>Contamos con una amplia variedad de cuerinas, entre ellas podemos nombrar</p>
                     <i class="fas fa-check"></i> La Talampaya, cuerina resistente y flexible para tapicería de sillas y sillones con base de jersey, disponible en variedad de colores. <br>

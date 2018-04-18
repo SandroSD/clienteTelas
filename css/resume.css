@@ -117,14 +117,10 @@ h2 {
   width: 100%;
   text-align: right;
 }
-#sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: bold;
-  text-transform: uppercase;
-  text-align: left;
-  text-shadow: 2px 2px 10px gray;
-}
+
 .nav-item .panelIzquierda{
   color:black !important;
+  
 }
 @media (min-width: 992px) {
   #sideNav {
@@ -136,6 +132,12 @@ h2 {
     flex-direction: column;
     width: 17rem;
     height: 100vh;
+  }
+  #sideNav .navbar-nav .nav-item .nav-link {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: left;
+    text-shadow: 2px 2px 10px gray;
   }
   #imgPortada{
     height: 15vh;
@@ -180,13 +182,14 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   section.resume-section {
     min-height: 100vh;
   }
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
   }
+  
 }
 
 @media (min-width: 992px) {
@@ -197,6 +200,13 @@ section.resume-section .resume-item .resume-date {
   #imagenGE{
     width: 70vh;
   }
+  #sideNav .navbar-nav .nav-item .nav-link {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: left;
+    text-shadow: 2px 2px 10px gray;
+    padding-bottom: 0em;
+  }
 }
 @media (max-width: 576px){
   section.resume-section {
@@ -205,6 +215,7 @@ section.resume-section .resume-item .resume-date {
   }
   body{
     width:100vh;
+    font-size: 2em;
   }
   h2{
     margin-left: 0.3em;
@@ -241,9 +252,7 @@ a:hover, a:focus, a:active {
 
 #contenedorCarousel{
   width: 90vh;
-  margin:auto;
-  margin-top:5vh;
-  
+  margin:auto;   
 }
 #contenedorMarcas{
   margin-top:1.5vh;  
@@ -251,6 +260,8 @@ a:hover, a:focus, a:active {
 .imagenHome{
   margin-top:1.5vh;
   width: 24vh;
+  border: 1px gray solid;
+  border-radius: 0.3em;
 }
 .accesoriosT{
   text-align: center;
