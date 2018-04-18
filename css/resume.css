@@ -232,10 +232,10 @@ section.resume-section .resume-item .resume-date {
   }
 }
 .bg-primary {
-  background-image: url("../img/barra5.jpg");
+  background-image: url("../img/barra.svg");
+  background-color:white !important;
   background-repeat: no-repeat;
-  background-size: cover;
-  //background-color: #BD5D38 !important;
+  background-size: cover;  
 }
 
 .text-primary {
