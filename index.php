@@ -35,44 +35,45 @@
         <span class="d-none d-lg-block">
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
         </span-->
+        <img src="img/logo.png" id="imgPortada">
       </a><div id="headerVMob">
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
-      </button></div>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      </button></div>      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">        
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#home">Home <i class="far fa-circle titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger panelIzquierda" href="#home"><i class="fas fa-circle titCirc"></i> Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#queHacemos">¿Qué Hacemos? <i class="far fa-circle titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger panelIzquierda" href="#queHacemos"><i class="fas fa-circle titCirc"></i> ¿Qué Hacemos?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#telasPorTipo">Nuestros Productos <i class="far fa-circle titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger panelIzquierda" href="#telasPorTipo"><i class="fas fa-circle titCirc"></i> Nuestros Productos</a>
           </li>  
           <li class="nav-item subcategorias">
-            <a class="nav-link js-scroll-trigger" href="#telasPorTipo">Telas por Tipo <i class="far fa-square titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger panelIzquierda" href="#telasPorTipo"><i class="fas fa-square titCirc"></i> Telas por Tipo</a>
           </li>
           <li class="nav-item subcategorias">
-            <a class="nav-link js-scroll-trigger" href="#telasPorUso">Telas por Uso <i class="far fa-square titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger panelIzquierda" href="#telasPorUso"><i class="fas fa-square titCirc"></i> Telas por Uso</a>
           </li>
           <li class="nav-item subcategorias">
-            <a class="nav-link js-scroll-trigger" href="#gomaEspuma">Goma Espuma <i class="far fa-square titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger panelIzquierda" href="#gomaEspuma"><i class="fas fa-square titCirc"></i> Goma Espuma</a>
           </li>
           <li class="nav-item subcategorias">
-            <a class="nav-link js-scroll-trigger" href="#accesorios">Accesorios <i class="far fa-square titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger panelIzquierda" href="#accesorios"><i class="fas fa-square titCirc"></i> Accesorios</a>
           </li>        
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#skills">Showroom <i class="far fa-circle titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger panelIzquierda" href="#skills"><i class="fas fa-circle titCirc"></i> Showroom</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#interests">Ubicación <i class="far fa-circle titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger panelIzquierda" href="#interests"><i class="fas fa-circle titCirc"></i> Ubicación</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#awards">Contacto <i class="far fa-circle titCirc"></i></a>
+            <a class="nav-link js-scroll-trigger panelIzquierda" href="#awards"><i class="fas fa-circle titCirc"></i> Contacto</a>
           </li>
 
-        </ul>
+        </ul>        
       </div>
     </nav>
 
