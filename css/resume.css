@@ -10,7 +10,15 @@
   background-color: #BD5D38;
   border: 0;
 }
-
+hr.style14 { 
+  border: 0; 
+  height:1.5px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0);
+  background-color:#ff8757 !important;
+}
 #telasPlasticasLista{
   max-height: 80vh;
   overflow-y:scroll;
@@ -261,8 +269,12 @@ a:hover, a:focus, a:active {
 }
 
 #contenedorCarousel{
-  width: 90vh;
+  width: 97vh;
   margin:auto;   
+}
+.carousel-item > img{
+  
+  border-radius: 3em;
 }
 #contenedorMarcas{
   margin-top:1.5vh;  
