@@ -2,7 +2,7 @@
     <div class="mt-5">
         <h2 class="mb-3">Ubicación</h2>
         <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-12 col-lg-4">
             <h4>Horarios de atención al cliente</h4>
             <h6 class="horarios"><i class="far fa-clock"></i>&nbsp;LU-VI de 9:00 a 13:00 y 15:00 a 19:00 / SA de 9:00 a 13:00</h6>
             <br>

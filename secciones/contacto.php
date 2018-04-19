@@ -2,7 +2,7 @@
     <div class="mt-1">
         <h2 class="mb-3">Contacto</h2>
         <div class="row">
-        <div class="col-md-7">
+        <div class="col-sm-12 col-md-12 col-lg-12">
             <form method="post">
             <div class="form-group">
                 <label for="nombre">Nombre:</label>
