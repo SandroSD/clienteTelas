@@ -23,7 +23,8 @@
 
 
     <!-- Custom styles for this template -->
-    <link href="css/resume.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/resume.css" >
+    <link rel="stylesheet" href="css/cssMobile.css">
 
   </head>
 

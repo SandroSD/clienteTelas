@@ -123,7 +123,7 @@ h2 {
 }
 #sideNav #headerVMob{
   width: 100%;
-  text-align: right;
+  text-align: left;
 }
 
 .nav-item .panelIzquierda{
@@ -203,13 +203,7 @@ section.resume-section .resume-item .resume-date {
   }
   
 }
-/*#sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: bold;
-  text-transform: uppercase;
-  text-align: left;
-  text-shadow: 2px 2px 10px gray;
-  padding-bottom: 0em;
-}*/
+
 @media (min-width: 992px) {
   section.resume-section {
     padding-top: 0.5em !important;
@@ -225,36 +219,15 @@ section.resume-section .resume-item .resume-date {
     text-shadow: 2px 2px 10px gray;
     padding-bottom: 1em;
   }
-}
-@media (max-width: 576px){
-  section.resume-section {
-    padding-top: 0.5em !important;
-    padding-bottom: 3rem !important;
-  }
-  body{
-    width:100vh;
-    font-size: 2em;
-  }
-  h2{
-    margin-left: 0.3em;
-  }
-  .row{
-    margin-left: 0.3em;
-  }
-  #imagenGE{
-    width: 50vh;
-    margin-left:0.3em;
-  }
-  ul li{
-    font-size: 1.25em;
+  .bg-primary {
+    background-image: url("../img/barra.svg");
+    background-color:white !important;
+    background-repeat: no-repeat;
+    background-size: cover;  
   }
 }
-.bg-primary {
-  background-image: url("../img/barra.svg");
-  background-color:white !important;
-  background-repeat: no-repeat;
-  background-size: cover;  
-}
+
+
 
 .text-primary {
   color: #BD5D38 !important;

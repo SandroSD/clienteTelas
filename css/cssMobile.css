@@ -1,0 +1,45 @@
+@media (max-width: 576px){
+    section.resume-section {
+      padding-top: 1em !important;
+      padding-bottom: 3rem !important;
+      min-height: 180vh;
+      width: 100%;
+    }
+    body{
+      width:100vh;
+      font-size: 1.5em;
+    }
+    h2{
+      margin-left: 0.3em;
+    }
+    
+    #imagenGE{
+      width: 50vh;
+      margin-left:0.3em;
+    }
+    ul li{
+      font-size: 1em;
+    }
+    .bg-primary {
+      //background-color: #BD5D38 !important;
+      background-color: rgba(189,93, 56,0.9) !important;
+      
+    }
+    #imgPortada{
+      display: none;
+    }
+    .navbar-nav{
+      margin-left:-12em;
+    }
+    #contenedorMarcas{
+        position: relative;
+        top:12em;
+    }
+    #contenidoNoticias{
+        position: relative;
+        top: 1em;
+        height: 40vh;
+        max-height: 40vh;
+        overflow-y: scroll;        
+    }
+  }
