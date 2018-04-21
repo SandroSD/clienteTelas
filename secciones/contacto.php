@@ -1,5 +1,6 @@
 <section class="resume-section p-lg-1" id="awards">    
-    <h2 class="mb-3">Contacto</h2>
+    <h2>Contacto</h2>
+    <br><hr class="style14"><br>
     <div class="row">
         <div class="col-12 col-md-12 col-lg-12">
             <form method="post">

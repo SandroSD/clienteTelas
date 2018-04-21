@@ -1,5 +1,6 @@
 <section class="resume-section p-lg-1" id="gomaEspuma">
-    <h2 class="mb-5">Goma Espuma</h2>
+    <h2>Goma Espuma</h2>
+    <br><hr class="style14"><br>
         <div class="row">
             <div class="col-md-12 col-lg-12 col-12">
                 <div>

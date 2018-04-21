@@ -1,5 +1,6 @@
 <section class="resume-section p-lg-1" id="telasPorUso">    
-        <h2>Telas por Uso</h2>
+    <h2>Telas por Uso</h2>
+    <br><hr class="style14"><br>
         <div class="row">
         <div class="col-md-12">
             <div id="telasPlasticasLista">

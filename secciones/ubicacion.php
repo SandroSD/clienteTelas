@@ -1,5 +1,6 @@
 <section class="resume-section p-lg-1" id="interests">
     <h2>Ubicación</h2>
+    <br><hr class="style14"><br>
         <div class="row">
         <div class="col-md-12 col-lg-12">
             <label>Horarios de atención al cliente</label>

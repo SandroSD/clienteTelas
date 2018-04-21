@@ -10,13 +10,13 @@
   background-color: #BD5D38;
   border: 0;
 }
-hr.style14 { 
+hr.style14{
   border: 0; 
   height:1.5px; 
-  background-image: -webkit-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0);
-  background-image: -moz-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0);
-  background-image: -ms-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0);
-  background-image: -o-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0);
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0) !important;
+  background-image: -moz-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0) !important;
+  background-image: -ms-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0) !important;
+  background-image: -o-linear-gradient(left, #f0f0f0, #ff8757, #f0f0f0) !important;
   background-color:#ff8757 !important;
 }
 #telasPlasticasLista{
@@ -245,7 +245,7 @@ a:hover, a:focus, a:active {
 
 #contenedorCarousel{
   width: 97vh;
-  margin:auto;   
+  margin:auto;
 }
 .carousel-item > img{
   
