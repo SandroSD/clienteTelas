@@ -1,6 +1,6 @@
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="queHacemos">
     <div class="col-lg-12">
-        <h2 class="mt-5">¿Qué Hacemos?</h2>
+        <h2>¿Qué Hacemos?</h2>
 
         <div class="col-lg-12">
             <div id="contenido">
