@@ -3,14 +3,31 @@
     <br><hr class="style14"><br>
         <div class="row">
             <div class="col-md-12 col-lg-12 col-12">
-                <div>
-                    <img class="rounded-circle" id="imagenGE" src="img/nuestrosProductos/gomaEspuma/ge1.jpg" />
+                <div class="tituloGE">
+                    <span id="contenidoTituloGE">
+                        SERVICIO DE CORTE DE GOMA ESPUMA A MEDIDA
+                    </span>                    
+                </div>                
+                <div id="fotoTituloGE">                    
+                    <img src="../img/nuestrosProductos/gomaEspuma/gomaEspuma.jpg" alt="">    
                 </div>
-                <ul>
-                    <li>Contamos con goma espuma de diferentes medidas y calidades de media y alta densidad.</li>
-                    <li>Realizamos cortes a medida, por ejemplo para almohadas y almohadones.</li>
-                    <li>Fabricamos colchones de alta densidad, combinando diferentes materiales (sin resortes).</li>
-                </ul>
+                <div class="tituloGE">
+                    <span id="contenidoPieGE">
+                        
+                    </span>                    
+                </div>
+                <!--div>
+                    <img class="rounded-circle" id="imagenGE" src="img/nuestrosProductos/gomaEspuma/ge1.jpg" />
+                </div-->
+                <div align="center">
+                <div  style="font-size:1.15em;">
+                    <span><i class="fas fa-check"></i> Contamos con goma espuma de diferentes medidas y calidades de media y alta densidad.</span><br>
+                    <span><i class="fas fa-check"></i> Realizamos cortes a medida, por ejemplo para Almohadas, Almohadones, Colchonetas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Rellenos para 
+                        Sillas, Sillones, Cilindros, Cubos, y Tapicería en general.</span><br>
+                    <span><i class="fas fa-check"></i> Fabricamos colchones de alta densidad, combinando diferentes materiales (sin resortes).</span>
+                </div>
+                </div>
+                
             </div><!--end col-->
         </div>  
 </section>

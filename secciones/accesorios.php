@@ -20,7 +20,7 @@
                             <div class="col-6 col-md-6 col-lg-3">
                                 <div class="accesoriosT">                                    
                                     <img class="imgAcc rounded-circle" src="img/nuestrosProductos/accesorios/cierresDeslisadores.jpg" alt="">                                    
-                                    <div class="txtAcc">Cierre</div>
+                                    <div class="txtAcc">Cierres</div>
                                 </div>
                             </div>
                     

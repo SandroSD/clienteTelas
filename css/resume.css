@@ -183,7 +183,35 @@ h2 {
     display: block;
     padding-bottom: 0em;
   }
-
+  .tituloGE{        
+    width:100%;
+    text-align:center;
+  }
+  #contenidoTituloGE{
+    font-size:2em;
+    background-color:#FAA954;
+    color:white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    font-weight: bold;
+    padding: 0 1.1em;
+  }
+  #contenidoPieGE{
+    font-size:2em;
+    background-color:#FAA954;
+    color:white;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    font-weight: bold;
+    padding: 0 13.31em;
+    
+  }
+  #fotoTituloGE{
+    text-align: center;
+  }
+  #listaGE{
+    font-size:0.55em;
+  }
 }
 
 section.resume-section {
