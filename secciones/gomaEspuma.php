@@ -1,6 +1,5 @@
-<section class="resume-section p-1 p-lg-5" id="gomaEspuma">
-    <div class="mt-1">
-        <h2 class="mb-5">Goma Espuma</h2>
+<section class="resume-section p-lg-1" id="gomaEspuma">
+    <h2 class="mb-5">Goma Espuma</h2>
         <div class="row">
             <div class="col-md-12 col-lg-12 col-12">
                 <div>
@@ -12,6 +11,5 @@
                     <li>Fabricamos colchones de alta densidad, combinando diferentes materiales (sin resortes).</li>
                 </ul>
             </div><!--end col-->
-        </div>
-    </div>
+        </div>  
 </section>

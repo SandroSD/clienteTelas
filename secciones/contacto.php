@@ -1,7 +1,7 @@
 <section class="resume-section p-lg-1" id="awards">    
-        <h2 class="mb-3">Contacto</h2>
-        <div class="row">
-        <div class="col-sm-12 col-md-12 col-lg-12">
+    <h2 class="mb-3">Contacto</h2>
+    <div class="row">
+        <div class="col-12 col-md-12 col-lg-12">
             <form method="post">
             <div class="form-group">
                 <label for="nombre">Nombre:</label>
@@ -22,6 +22,5 @@
             <button type="submit" class="btn btn-success">Enviar Consulta</button>
             </form>              
         </div>
-        </div>
-    
+    </div>    
 </section>

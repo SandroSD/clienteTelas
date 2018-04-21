@@ -1,6 +1,5 @@
-<section class="resume-section p-3 p-lg-5" id="accesorios">
-    <div class="my-auto">
-        <h2 class="mb-5">Accesorios</h2>
+<section class="resume-section p-lg-1" id="accesorios">    
+    <h2>Accesorios</h2>
         <div class="row">
             <div class="col-md-12 col-lg-12">
                 <div class="row">
@@ -124,5 +123,5 @@
                 </div>
             </div><!--end col-->
         </div>
-    </div>
+    
 </section>

@@ -1,4 +1,4 @@
-<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="queHacemos">
+<section class="resume-section p-lg-1" id="queHacemos">
     <div class="col-lg-12">
         <h2>¿Qué Hacemos?</h2>
 

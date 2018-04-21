@@ -1,4 +1,4 @@
-<section class="resume-section p-3 p-lg-5" id="home">
+<section class="resume-section p-lg-1" id="home">
     <div class="row">        
         <div class="col-12 col-md-12 col-sm-12 mt-3">
             <div id="contenedorCarousel">

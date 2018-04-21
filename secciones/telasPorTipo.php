@@ -1,5 +1,5 @@
-<section class="resume-section p-3 p-lg-5" id="telasPorTipo">
-    <div class="my-auto">
+<section class="resume-section p-lg-1" id="telasPorTipo">
+    
         <h2>Telas por Tipo</h2>
         <div class="row">
         <div class="col-md-12">
@@ -63,5 +63,5 @@
             </div>
         </div><!--end col-->
         </div>
-    </div>
+    
 </section>
