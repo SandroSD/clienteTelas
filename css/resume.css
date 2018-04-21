@@ -52,8 +52,8 @@ li{
   font-size:10px;
 }
 #contenidoNoticias{
-  height: 20vh;
-  max-height: 30vh;
+  height: 18vh;
+  max-height: 28vh;
   overflow-y: scroll;
   margin-top:0.5em;
 }
