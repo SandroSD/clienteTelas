@@ -180,6 +180,7 @@ h2 {
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
+    padding-bottom: 0em;
   }
 
 }
