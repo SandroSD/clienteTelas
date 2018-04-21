@@ -72,7 +72,7 @@
                             </div>
                             <div class="col-6 col-md-6 col-lg-3">
                                 <div class="accesoriosT">
-                                    <img class="imgAcc rounded-circle" src="img/nuestrosProductos/accesorios/semillas.jpg" alt="">
+                                    <img class="imgAcc rounded-circle" src="img/nuestrosProductos/accesorios/tachuela.jpg" alt="">
                                     <div class="txtAcc">Semillas</div>
                                 </div>
                             </div>

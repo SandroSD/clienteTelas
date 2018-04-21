@@ -212,6 +212,11 @@ h2 {
   #listaGE{
     font-size:0.55em;
   }
+  #imgSmart{
+    width:10vh;
+    position:relative;
+    left:50px;
+  }
 }
 
 section.resume-section {
