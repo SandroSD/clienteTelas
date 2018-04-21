@@ -42,4 +42,9 @@
     target: '#sideNav'
   });
 
+  $("#imgSmart").click(function(){
+    //location.href="http://smart360.com.ar";
+    window.open("http://smart360.com.ar");
+  })
+
 })(jQuery); // End of use strict

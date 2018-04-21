@@ -9,7 +9,8 @@
     <meta name="author" content="">
 
     <title>Seguplast</title>
-    
+    <link rel="icon" type="image/png" href="img/logo.png">
+
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -26,6 +27,7 @@
     <link rel="stylesheet" href="css/resume.css" >
     <link rel="stylesheet" href="css/cssMobile.css">
 
+    
   </head>
 
   <body id="page-top">
@@ -76,7 +78,7 @@
 
         </ul>        
       </div>
-      <img src="img/logoSmart360.svg" id="imgSmart">
+      <img src="img/logoSmart360DP.svg" id="imgSmart" target="_blank">
     </nav>
 
     <div class="container-fluid p-0">
