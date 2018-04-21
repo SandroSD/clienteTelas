@@ -1,6 +1,6 @@
 <section class="resume-section p-3 p-lg-5" id="telasPorUso">
     <div class="my-auto">
-        <h2 class="mb-5">Nuestros Productos - Telas por Uso</h2>
+        <h2>Telas por Uso</h2>
         <div class="row">
         <div class="col-md-12">
             <div id="telasPlasticasLista">

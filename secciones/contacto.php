@@ -1,5 +1,4 @@
-<section class="resume-section p-lg-1" id="awards">
-    <div class="mt-1">
+<section class="resume-section p-lg-1" id="awards">    
         <h2 class="mb-3">Contacto</h2>
         <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12">
@@ -24,5 +23,5 @@
             </form>              
         </div>
         </div>
-    </div>
+    
 </section>

@@ -1,7 +1,7 @@
 @media (max-width: 768px){
     section.resume-section {
       padding-top: 3em !important;
-      padding-bottom: 3rem !important;
+      padding-bottom: 3em !important;
       min-height: 100vh;
       width: 100%;
     }
