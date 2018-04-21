@@ -2,7 +2,7 @@
     section.resume-section {
       padding-top: 3em !important;
       padding-bottom: 3rem !important;
-      min-height: 180vh;
+      min-height: 100vh;
       width: 100%;
     }
     body{
@@ -33,7 +33,7 @@
     }
     #contenedorMarcas{
         position: relative;
-        top:12em;
+        top:5em;
     }
     #contenidoNoticias{
         position: relative;
