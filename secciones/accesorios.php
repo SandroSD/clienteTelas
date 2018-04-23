@@ -1,4 +1,4 @@
-<!--asfasffsafasafs->
+<!--asfasffsafasafs-->
 <section class="resume-section p-lg-1" id="accesorios">    
     <h2>Accesorios</h2>
     <br><hr class="style14"><br>

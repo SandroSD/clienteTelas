@@ -9,7 +9,7 @@
                     </span>                    
                 </div>                
                 <div id="fotoTituloGE">                    
-                    <img src="../img/nuestrosProductos/gomaEspuma/gomaEspuma.jpg" alt="">    
+                    <img src="../img/nuestrosProductos/gomaEspuma/gomaEspuma.jpg" id="fotoGE" alt="">    
                 </div>
                 <div class="tituloGE">
                     <span id="contenidoPieGE">
