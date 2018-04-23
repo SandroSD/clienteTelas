@@ -78,7 +78,7 @@
 
         </ul>        
       </div>
-      <img src="img/logoSmart360DP.svg" id="imgSmart" target="_blank">
+      <!--img src="img/logoSmart360DP.svg" id="imgSmart" target="_blank"-->
     </nav>
 
     <div class="container-fluid p-0">
