@@ -1,4 +1,4 @@
-@media (max-width: 768px){
+@media (max-width: 600px){
     section.resume-section {
       padding-top: 3em !important;
       padding-bottom: 3em !important;
@@ -65,7 +65,7 @@
       border-bottom-left-radius: 25px;
       border-bottom-right-radius: 25px;
       font-weight: bold;
-      padding: 0 13.31em;
+      padding: 0 25.8em;
       
     }
     #fotoTituloGE{
