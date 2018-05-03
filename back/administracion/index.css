@@ -1,0 +1,32 @@
+#barraTop{
+    width:100%;
+    background-color: orangered;
+    color:white;
+    height:6vh;
+    padding: 0.3em;
+    font-size: 1.5em;
+}
+#barraTop > #tituloTop{
+    font-weight: bold;
+    float:left;
+}
+#barraTop > #usuarioTop{
+    float:right;
+}
+#barraLeft{
+    width:15%;
+    background-color: orangered;
+    height: 94vh;
+}
+ul li{
+    list-style-type: circle;
+}
+#items{
+    padding-top:4em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:1.3em;    
+}
+#barraRight{
+    width:85%;
+    
+}
