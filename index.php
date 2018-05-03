@@ -95,7 +95,11 @@
         include_once("secciones/ubicacion.php");
         include_once("secciones/contacto.php");
 
-        include_once("modalTelas.php");
+        include_once("modalTelas/porTipo/telas.php");
+        include_once("modalTelas/porTipo/cuerinas.php");
+
+        include_once("modalTelas/porUso/automotor.php");
+        include_once("modalTelas/porUso/sillasYsillones.php");
 
       ?>
 

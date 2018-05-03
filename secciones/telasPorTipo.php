@@ -11,7 +11,7 @@
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                     Telas    
                     </a>
-                     <button class="btn btn-info btnTelasPlasticas" data-toggle="modal" data-target="#exampleModal"><i class="far fa-images tamImgTelas"></i></button>
+                     <button class="btn btn-info btnTelasPlasticas" data-toggle="modal" data-target="#modalTelas"><i class="far fa-images tamImgTelas"></i></button>
                     </h5>
                 </div>
 
@@ -32,8 +32,9 @@
                 <div class="card-header" role="tab" id="headingTwo">
                     <h5 class="mb-0">
                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        Cuerinas <button class="btn btn-info btnTelasPlasticas"><i class="far fa-images tamImgTelas"></i></button>
+                        Cuerinas
                     </a>
+                    <button class="btn btn-info btnTelasPlasticas" data-toggle="modal" data-target="#modalCuerinas"><i class="far fa-images tamImgTelas"></i></button>
                     </h5>
                 </div>
                 <div id="collapseTwo"  role="tabpanel" aria-labelledby="headingTwo" active>

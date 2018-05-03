@@ -9,14 +9,18 @@
                 <div class="card-header" role="tab" id="headingOne">
                     <h5 class="mb-0">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseOnee" aria-expanded="true" aria-controls="collapseOne">
-                        Automotor <button class="btn btn-info btnTelasPlasticas"><i class="far fa-images tamImgTelas"></i></button>
+                        Automotor
                     </a>
+                    <button class="btn btn-info btnTelasPlasticas" data-toggle="modal" data-target="#modalAutomotor"><i class="far fa-images tamImgTelas"></i></button>
                     </h5>
                 </div>
 
                 <div id="collapseOnee" class="collapse" role="tabpanel" aria-labelledby="headingOne">
                     <div class="card-block">
-                        <p>Contamos con una amplia variedad de telas y cuerinas, entre ellas podemos nombrar 
+                        <p>Contamos con una amplia variedad de telas y cuerinas, entre ellas podemos nombrar</p>
+                        <i class="fas fa-check"></i> Jackuard <br>
+                        <i class="fas fa-check"></i> Bizon, angus, piel y capri <br>
+                        <i class="fas fa-check"></i>
                         el <strong>Jackuard</strong>, tejido pesado disponible en la medida de 3 metros de ancho con variedad de diseños y motivos; 
                         el <strong>Bizon, angus, piel y capri,</strong> son grabados de cuerinas especiales de automotor, disponibles en la medida de 1.40 metros de ancho en negro, gris y blanco.
                         </p>
@@ -27,13 +31,21 @@
                 <div class="card-header" role="tab" id="headingTwoo">
                     <h5 class="mb-0">
                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwoo" aria-expanded="false" aria-controls="collapseTwo">
-                        Sillas y sillones <button class="btn btn-info btnTelasPlasticas"><i class="far fa-images tamImgTelas"></i></button>
+                        Sillas y sillones
                     </a>
+                    <button class="btn btn-info btnTelasPlasticas" data-toggle="modal" data-target="#modalSillasSillones"><i class="far fa-images tamImgTelas"></i></button>
                     </h5>
                 </div>
                 <div id="collapseTwoo" role="tabpanel" aria-labelledby="headingTwo">
                     <div class="card-block">
-                        <p>Contamos con una amplia variedad de telas y cuerinas, entre ellas podemos nombrar 
+                        <p>Contamos con una amplia variedad de telas y cuerinas, entre ellas podemos nombrar</p>
+                        <i class="fas fa-check"></i> Chinille <br>
+                        <i class="fas fa-check"></i> Gross <br>
+                        <i class="fas fa-check"></i> Gobelino <br>
+                        <i class="fas fa-check"></i> Panama <br>
+                        <i class="fas fa-check"></i> Lola <br>
+                        <i class="fas fa-check"></i> Talampaya <br>
+                        <i class="fas fa-check"></i> Bufalo <br>
                         al <strong>Chinille</strong>, tejido disponible en dos medias 1.40 y 3 metros de ancho con variedad en colores; 
                         el <strong>Gross</strong>, tejido fino y resistente disponibles con variedad de colores lisos y estampados; 
                         el <strong>Gobelino</strong>, tejido resistente que se destaca por sus clásicos y elegantes diseños florales donde se puede combinar lo antiguo con lo moderno, disponible en la medida de 1.40 metros de ancho; 
