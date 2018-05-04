@@ -9,12 +9,13 @@
             <br>
             <div><label>¿Dónde nos pueden ubicar?</label></div>
             <img id="imgMapa" src="img/maps.svg" alt="Click para ver en el mapa">              
-            <h6 id="footerMapa">Los Pozos 150 - Ituzaingo Sur</h6>
+            <h6 id="footerMapa">Treinta y Tres 783 - Ituzaingo Norte</h6>
             
             <br>
             <label>¿Dónde nos pueden contactar?</label>
-            <h6 class="horarios">&nbsp;<i class="fas fa-mobile-alt"></i>&nbsp;&nbsp;15 3167 9893</h6>
-            <h6 class="horarios"><i class="fas fa-at"></i>&nbsp;contacto@seguplast.com.ar</h6>
+            <h6 class="horarios">&nbsp;<i class="fas fa-mobile-alt"></i>&nbsp;&nbsp;&nbsp; 15 3167 9893</h6>
+            <h6 class="horarios">&nbsp;<i class="fas fa-phone"></i>&nbsp;&nbsp;011 4458 1071</h6>
+            <h6 class="horarios"><i class="fas fa-at"></i>&nbsp;&nbsp; contacto@seguplast.com.ar</h6>
 
 
             <!--h4>Venta al público  Los Pozos 150 - Ituzaingo Sur</h4>

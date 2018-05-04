@@ -50,7 +50,7 @@
       text-align:center;
     }
     #contenidoTituloGE{
-      font-size:0.93em;
+      font-size:0.8em;
       background-color:#FAA954;
       color:white;
       border-top-left-radius: 25px;
@@ -62,10 +62,11 @@
       font-size:0.93em;
       background-color:#FAA954;
       color:white;
-      border-bottom-left-radius: 25px;
       border-bottom-right-radius: 25px;
+      border-bottom-left-radius: 25px;
+      
       font-weight: bold;
-      padding: 0 25.8em;
+      padding: 0 23em;
       
     }
     #fotoTituloGE{
