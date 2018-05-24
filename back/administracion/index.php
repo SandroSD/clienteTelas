@@ -7,28 +7,37 @@
     <title>Administración</title>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+
     
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="modulos/noticia/noticia.css">
+    <link rel="stylesheet" href="">
 </head>
 <body>
     <div class="container-fluid">
         <div class="row">
-            <div id="barraTop">
-                <span id="tituloTop">Administración de Seguplast</span>                
-                <span id="usuarioTop">Usuario</span>
+            <div id="barraTop">                
+                <img id="fotoTop" src="../../img/logo.png">                
+                <span id="tituloTop">Administrar sitio</span>
             </div>            
             <div id="barraLeft">
                 <div id="items">
                     <ul>
-                        <li>Noticias</li>
+                        <li><span id="secNoticia">Noticias</span></li>
                     </ul>
                 </div>
             </div>
             <div id="barraRight">
-            c
+            
             </div>            
         </div>
     </div>
+
+    <script src="index.js"></script>
 </body>
 </html>

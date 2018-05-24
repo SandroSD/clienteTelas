@@ -1,24 +1,30 @@
 #barraTop{
     width:100%;
-    background-color: orangered;
-    color:white;
-    height:6vh;
+    background-color: #e0ebc2;
+    color:black;
+    height:8vh;
     padding: 0.3em;
     font-size: 1.5em;
 }
-#barraTop > #tituloTop{
-    font-weight: bold;
+#barraTop > #fotoTop{
+    width: 10vw;
+    height: 8vh;
     float:left;
+    padding-left:1.2em;
 }
-#barraTop > #usuarioTop{
-    float:right;
+#barraTop > #tituloTop{
+    display: block;
+    text-align: center;    
+    font-weight: bold;
+    padding-top:0.1em;
+    font-size:1.4em;
 }
 #barraLeft{
-    width:15%;
-    background-color: orangered;
+    width:13%;
+    background-color: #e0ebc2;
     height: 94vh;
 }
-ul li{
+#items ul li{
     list-style-type: circle;
 }
 #items{
@@ -28,5 +34,10 @@ ul li{
 }
 #barraRight{
     width:85%;
-    
+}
+
+ul li span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: bold;
 }

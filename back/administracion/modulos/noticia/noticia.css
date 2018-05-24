@@ -1,0 +1,25 @@
+#noticiaContainer{    
+    height: 100%;
+}
+.acomodoUltimasNoticias{
+    margin-top:0.8em;
+    font-size:1.11em;
+}
+#tituloUltimas{
+    font-size:1.2em;
+    font-weight: bold;
+    margin-top:2.2em;
+}
+.titSubseccion{    
+    font-weight: bolder;
+    color: #5fb677;
+}
+.nav-pills .nav-item > .nav-link{
+    background:white;
+    color:black;
+}
+#contenerNoticiasAModificar{
+    height:60vh;
+    max-height: 60vh;
+    overflow: hidden;
+}

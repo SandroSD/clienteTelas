@@ -20,12 +20,14 @@
             <div class="col-12 col-md-12 col-sm-12 mt-3">
                 
                 <div id="contenidoNoticias">
-                    Seguimos las últimas tendencias y nos renovamos permanentemente. Además de atenderte con una sonrisa, te ofrecemos descuentos por pago en efectivo y cuotas sin interés con todas las tarjetas de crédito.<br>¡Atento a las promociones!
-                    <!--p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas inventore magnam accusamus. Neque ipsam inventore facere aliquam laudantium ipsum sequi ab voluptates magni fugiat temporibus cumque officia, necessitatibus facilis.</p-->
+                    <?php
+                        $queryVerNoticias = "SELECT * FROM noticia WHERE estado = '1'";
+                        $noticias=$bd->ejecutarQuery($queryVerNoticias);
+                        
+                        foreach ($noticias as $noticia){
+                            echo "<p>".$noticia['descripcion']."</p>";
+                        }
+                    ?>                    
                 </div>        
                 <div id="contenedorMarcas">
                     <div class="col-12 col-md-12 col-sm-12">
