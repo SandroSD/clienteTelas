@@ -2,12 +2,12 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Cuerinas</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body">  cuerinas
+      <div class="modal-body">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -16,24 +16,22 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="img/home/img1.jpg" alt="First slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/cuerinasPorTipo/bufalo-EcoCuero.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-    <h5>Titulo</h5>
-    <p>Text</p>
+    <!--h5>Titulo</h5-->
+    <p>Bufalo (EcoCuero)</p>
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/home/img2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/cuerinasPorTipo/talampaya.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
-      <h5>Titulo</h5>
-      <p>Text</p>
+      <p>Talampaya</p>
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/home/img3.jpg" alt="Third slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/cuerinasPorTipo/bizonAngus.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
-      <h5>Titulo</h5>
-      <p>Text</p>
+      <p>Bizon- Angus</p>
   </div>
     </div>
   </div>
