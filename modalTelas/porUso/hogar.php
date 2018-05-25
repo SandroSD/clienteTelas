@@ -17,6 +17,8 @@
       <li data-target="#carouselHogar" data-slide-to="4"></li>
       <li data-target="#carouselHogar" data-slide-to="5"></li>
       <li data-target="#carouselHogar" data-slide-to="6"></li>
+      <li data-target="#carouselHogar" data-slide-to="7"></li>
+      <li data-target="#carouselHogar" data-slide-to="8"></li>
       <!--li data-target="#carouselHogar" data-slide-to="7"></li-->
     </ol>
     <div class="carousel-inner">
@@ -60,6 +62,18 @@
         <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/panama.jpg">
         <div class="carousel-caption d-none d-md-block">
         <p>Panama</p>
+    </div>
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/Satin.jpg">
+        <div class="carousel-caption d-none d-md-block">
+        <p>Satín</p>
+    </div>
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/Satin2.jpg">
+        <div class="carousel-caption d-none d-md-block">
+        <p>Satín</p>
     </div>
       </div>
       <div class="carousel-item">
