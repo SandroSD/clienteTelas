@@ -98,11 +98,23 @@
                             </div>
                             <div class="col-6 col-md-6 col-lg-3">
                                 <div class="accesoriosT">
+                                    <img class="imgAcc rounded-circle" src="img/nuestrosProductos/accesorios/PegamentoPVC.jpg" alt="">
+                                    <div class="txtAcc">Pegamento para PVC</div>
+                                </div>
+                            </div>
+                            <div class="col-6 col-md-6 col-lg-3">
+                                <div class="accesoriosT">
                                     <img class="imgAcc rounded-circle" src="img/nuestrosProductos/accesorios/resortes.jpg" alt="">
                                     <div class="txtAcc">Resortes</div>
                                 </div>
                             </div>
-                    
+                            <div class="col-6 col-md-6 col-lg-3">
+                                <div class="accesoriosT">
+                                    <img class="imgAcc rounded-circle" src="img/nuestrosProductos/accesorios/resortesCurvos.jpg" alt="">
+                                    <div class="txtAcc">Resortes Zig Zag</div>
+                                </div>
+                            </div>
+
                             <div class="col-6 col-md-6 col-lg-3">
                                 <div class="accesoriosT">
                                     <img class="imgAcc rounded-circle" src="img/nuestrosProductos/accesorios/vellon.jpg" alt="">

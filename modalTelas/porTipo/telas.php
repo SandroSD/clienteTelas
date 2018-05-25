@@ -8,64 +8,58 @@
         </button>
       </div>
       <div class="modal-body">  
-      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <div id="carouselTelas" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="3" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+    <li data-target="#carouselTelas" data-slide-to="0"></li>
+    <li data-target="#carouselTelas" data-slide-to="1"></li>
+    <li data-target="#carouselTelas" data-slide-to="2"></li>
+    <li data-target="#carouselTelas" data-slide-to="3" class="active"></li>
+    <li data-target="#carouselTelas" data-slide-to="4"></li>
+    <li data-target="#carouselTelas" data-slide-to="5"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/chinille.jpg" alt="First slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/chinille.jpg">
       <div class="carousel-caption d-none d-md-block">
-    <!--h5>Chinille</h5-->
     <p>Chinille</p>
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/gobelina.jpg" alt="Third slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/gobelina.jpg">
       <div class="carousel-caption d-none d-md-block">
-      <!--h5>Titulo</h5-->
-      <p>Gobelina</p>
+      <p>Gobelino</p>
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/gross.jpg" alt="Second slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/gross.jpg">
       <div class="carousel-caption d-none d-md-block">
-      <!--h5>Gross</h5-->
       <p>Gross</p>
   </div>
     </div>
     <div class="carousel-item active">
-      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/jackuard.jpg" alt="Third slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/jackuard.jpg">
       <div class="carousel-caption d-none d-md-block">
-      <!--h5>Titulo</h5-->
       <p>Jackuard</p>
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/lolaEstampada.jpg" alt="Third slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/lolaEstampada.jpg">
       <div class="carousel-caption d-none d-md-block">
-      <!--h5>Titulo</h5-->
       <p>Lola Estampada</p>
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/panama.jpg" alt="Third slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/panama.jpg">
       <div class="carousel-caption d-none d-md-block">
-      <!--h5>Titulo</h5-->
       <p>Panama</p>
   </div>
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#carouselTelas" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#carouselTelas" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>

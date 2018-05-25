@@ -22,8 +22,8 @@
                 <div align="center">
                 <div  style="font-size:1.15em;">
                     <span><i class="fas fa-check"></i> Contamos con goma espuma de diferentes medidas y calidades de media y alta densidad.</span><br>
-                    <span><i class="fas fa-check"></i> Realizamos cortes a medida, por ejemplo para Almohadas, Almohadones, Colchonetas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>Rellenos para 
-                        Sillas, Sillones, Cilindros, Cubos, y Tapicería en general.</span><br>
+                    <span><i class="fas fa-check"></i> Realizamos cortes a medida, por ejemplo de Almohadas, Almohadones, Catres, Colchonetas.</span><br>
+                    <span><i class="fas fa-check"></i> Confeccionamos rellenos para Sillas, Sillones, Cilindros, Cubos, y Tapicería en general.</span><br>
                     <span><i class="fas fa-check"></i> Fabricamos colchones de alta densidad, combinando diferentes materiales (sin resortes).</span>
                 </div>
                 </div>

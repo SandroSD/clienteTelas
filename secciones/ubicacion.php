@@ -4,8 +4,8 @@
         <div class="row">
         <div class="col-md-12 col-lg-12">
             <label>Horarios de atención al cliente</label>
-            <h6 class="horarios"><i class="far fa-clock"></i>&nbsp;Lunes a Viernes de 9:00 a 13:00 y 15:00 a 19:00</h6>
-            <h6 class="horarios"><i class="far fa-clock"></i>&nbsp;Sábados de 9:00 a 13:00</h6>
+            <h6 class="horarios"><i class="far fa-clock"></i>&nbsp;Lunes a Viernes de 8:00 a 12:00 y 14:00 a 18:30</h6>
+            <h6 class="horarios"><i class="far fa-clock"></i>&nbsp;Sábados de 8:00 a 13:00</h6>
             <br>
             <div><label>¿Dónde nos pueden ubicar?</label></div>
             <img id="imgMapa" src="img/maps.svg" alt="Click para ver en el mapa">              
@@ -13,7 +13,7 @@
             
             <br>
             <label>¿Dónde nos pueden contactar?</label>
-            <h6 class="horarios">&nbsp;<i class="fas fa-mobile-alt"></i>&nbsp;&nbsp;&nbsp; 15 3167 9893</h6>
+            <!--h6 class="horarios">&nbsp;<i class="fas fa-mobile-alt"></i>&nbsp;&nbsp;&nbsp; 15 3167 9893</h6-->
             <h6 class="horarios">&nbsp;<i class="fas fa-phone"></i>&nbsp;&nbsp;011 4458 1071</h6>
             <h6 class="horarios"><i class="fas fa-at"></i>&nbsp;&nbsp; contacto@seguplast.com.ar</h6>
 

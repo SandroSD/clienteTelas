@@ -2,46 +2,44 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Automotor</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body">  automotor
-      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <div class="modal-body">  
+      <div id="carouselAutomotor" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselAutomotor" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselAutomotor" data-slide-to="1"></li>
+    <li data-target="#carouselAutomotor" data-slide-to="2"></li>
   </ol>
+  
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="img/home/img1.jpg" alt="First slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/capri.jpg">
       <div class="carousel-caption d-none d-md-block">
-    <h5>Titulo</h5>
-    <p>Text</p>
+    <p>Capri</p>
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/home/img2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/cuerinasPorTipo/bizonAngus.jpg">
       <div class="carousel-caption d-none d-md-block">
-      <h5>Titulo</h5>
-      <p>Text</p>
+      <p>Bizon - Angus</p>
   </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/home/img3.jpg" alt="Third slide">
+      <img class="d-block w-100" src="img/nuestrosProductos/telasPorTipo/jackuard.jpg">
       <div class="carousel-caption d-none d-md-block">
-      <h5>Titulo</h5>
-      <p>Text</p>
+      <p>Jackuard</p>
   </div>
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#carouselAutomotor" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#carouselAutomotor" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>

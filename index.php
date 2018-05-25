@@ -103,7 +103,7 @@
         include_once("modalTelas/porTipo/cuerinas.php");
 
         include_once("modalTelas/porUso/automotor.php");
-        include_once("modalTelas/porUso/sillasYsillones.php");
+        include_once("modalTelas/porUso/hogar.php");
 
       ?>
 
