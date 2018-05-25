@@ -42,7 +42,7 @@
                         <i class="fas fa-check"></i> <strong>Lola</strong>, tejido que se destaca por su clásica textura y diseño rayado, disponible en la medida de 1.40 metros de ancho con variedad de colores. <br>
                         <i class="fas fa-check"></i> <strong>Talampaya</strong>, cuerina resistente y flexible con base de jersey, disponible en variedad de colores <br>
                         <i class="fas fa-check"></i> <strong>Bufalo</strong>, cuerina adherente de base manteada con amplia gama de utilidades, disponible en variedad de colores. <br>
-                        
+                        <i class="fas fa-check"></i> <strong>Satín</strong>, plástico para forrado de colchones y muy utilizado para catres de bebes. <br>
 
                     </div>
                 </div>
