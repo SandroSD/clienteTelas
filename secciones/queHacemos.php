@@ -9,7 +9,10 @@
                 <p>En Seguplast, también realizamos trabajos de almohadas, almohadones, colchones y confección de lonas. Este amplio abanico de servicios, junto al precio y a la calidad de nuestros productos, hoy nos destaca entre los comerciantes del rubro.</p>
                 <p>Nuestra identidad radica en la acción y el compromiso: escuchamos, observamos y trabajamos día a día para brindarle al cliente los productos que mejor satisfagan sus necesidades.</p>
                 </div>            
-            </div>
+                                                               
+                <iframe width="640" height="360" src="https://www.youtube.com/embed/gSJyH1TrZVM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                
+            </div>            
         </div>
     </div>
 </section>
