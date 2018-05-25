@@ -215,8 +215,11 @@ h2 {
     padding: 0 13.31em;
     
   }
-  #fotoTituloGE{
+  #fotoTituloGE{    
     text-align: center;
+  }  
+  #fotoGE{
+    border-radius: 25px;
   }
   #listaGE{
     font-size:0.55em;
