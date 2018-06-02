@@ -3,7 +3,7 @@
     <br><hr class="style14"><br>
     <div class="row">
         <div class="col-12 col-md-12 col-lg-12">
-            <form method="post">
+            <form method="post" id="formularioDeContacto">
             <div class="form-group">
                 <label for="nombre">Nombre:</label>
                 <input type="text" name="nombre" id="nombre" class="form-control" placeholder="Escriba su nombre..." required>
@@ -20,7 +20,7 @@
                 <label for="mensaje">Mensaje:</label>
                 <textarea name="mensaje" id="mensaje" cols="30" rows="10" class="form-control" placeholder="Escriba el mensaje..." required></textarea>
             </div>
-            <button type="submit" id="btnSubmit" class="btn btn-success">Enviar Consulta</button>
+                <button type="submit" id="btnSubmit" class="btn btn-success"> Enviar Consulta</button>                
             </form>              
         </div>
     </div>    

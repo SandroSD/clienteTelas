@@ -1,4 +1,4 @@
-<?php
+<?php    
     require_once("PHPMailer/class.phpmailer.php");
     
     $email = $_POST['email'];

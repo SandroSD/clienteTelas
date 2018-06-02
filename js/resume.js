@@ -75,10 +75,7 @@
           $("#mensajeInfo").html("");
           $("#mensajeInfo").html("✓ Mensaje correcto.");
           flagMensaje=0;
-      }
-          console.log("flagNombre: "+flagNombre);
-          console.log("flagEmail: "+flagEmail);
-          console.log("flagMensaje: "+flagMensaje);
+      }          
       if(flagNombre==0 && flagMensaje==0){
           $.ajax({
               url: "checkAndSendMail.php",
@@ -90,10 +87,21 @@
                   mensaje: mensaje
               },
               beforeSend: function(){
-                $("#btnSubmit").addClass("disabled");
+                $(".btnSpinner").remove();
+                $("#btnSubmit").prepend("<div class='btnSpinner fa fa-spinner fa-spin'></div>");                
+                $("#btnSubmit").prop("disabled",true);                
               },
               success: function(result){
-
+                
+                setTimeout(() => {
+                  alert("Su consulta fue enviada correctamente. Gracias por contactarse con Seguplast");
+                  $(".btnSpinner").remove();
+                  $("#btnSubmit").prop("disabled",false);
+                  $("#nombre").val("");
+                  $("#asunto").val("");
+                  $("#email").val("");
+                  $("#mensaje").val("");                  
+                }, 1500);
               }
           });
       }else{
