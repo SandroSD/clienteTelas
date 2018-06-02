@@ -10,7 +10,7 @@
             </div>
             <div class="form-group">
                 <label for="mail">Mail de contacto:</label>
-                <input type="email" name="mail" id="mail" class="form-control" placeholder="Escriba su mail...." required>
+                <input type="email" name="email" id="email" class="form-control" placeholder="Escriba su mail...." required>
             </div>
             <div class="form-group">
                 <label for="asunto">Asunto:</label>
@@ -20,7 +20,7 @@
                 <label for="mensaje">Mensaje:</label>
                 <textarea name="mensaje" id="mensaje" cols="30" rows="10" class="form-control" placeholder="Escriba el mensaje..." required></textarea>
             </div>
-            <button type="submit" class="btn btn-success">Enviar Consulta</button>
+            <button type="submit" id="btnSubmit" class="btn btn-success">Enviar Consulta</button>
             </form>              
         </div>
     </div>    
