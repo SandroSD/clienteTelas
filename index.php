@@ -1,7 +1,6 @@
 <?php
   require_once("back/core.php");
   $bd = new bd();
-  die(print_r($bd));
 ?>
 <!DOCTYPE html>
 <html lang="en">
