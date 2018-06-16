@@ -9,7 +9,7 @@ class bd{
     public function __construct(){                
         
         //$this->conn = new mysqli("localhost","root","s4ndr0","seguplast");
-        $this->conn = new mysqli("localhost","root","hola*147","seguplast");
+        $this->conn = new mysqli("192.168.0.200","root","51733Mm6!","seguplast");
         
         if(!$this->conn){
             return false;
