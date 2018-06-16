@@ -50,7 +50,7 @@ function checkBeforeSubmit(){
 }
 
 function modificarNoticia(){
-    $(".modificarNoticia").click(function(){
+    $(".modificarNoticia").click(function(){    alert("A");
         var idNoticia = $(this).attr("data-id");
         $.ajax({
             data:{

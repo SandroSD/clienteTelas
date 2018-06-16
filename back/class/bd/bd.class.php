@@ -8,8 +8,8 @@ class bd{
 
     public function __construct(){                
         
-        //$this->conn = new mysqli("localhost","root","s4ndr0","seguplast");
-        $this->conn = new mysqli("192.168.0.200:33006","webServer","Hola*147","seguplast");
+        $this->conn = new mysqli("localhost","root","s4ndr0","seguplast");
+        //$this->conn = new mysqli("192.168.0.200:33006","webServer","Hola*147","seguplast");
         
         if(!$this->conn){
             return false;
