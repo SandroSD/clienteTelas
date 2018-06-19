@@ -10,7 +10,7 @@
                 <p>Nuestra identidad radica en la acción y el compromiso: escuchamos, observamos y trabajamos día a día para brindarle al cliente los productos que mejor satisfagan sus necesidades.</p>
                 </div>            
                                                                
-                <iframe width="640" height="360" src="https://www.youtube.com/embed/gSJyH1TrZVM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <!--iframe width="640" height="360" src="https://www.youtube.com/embed/gSJyH1TrZVM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe-->
                 
             </div>            
         </div>
