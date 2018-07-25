@@ -12,13 +12,13 @@
     $mail->Host = "smtp.zoho.com";
     $mail->SMTPAuth = true;
 
-    $mail->Username = "noreply@smart360.com.ar";  // SMTP username
-    $mail->Password = "hola*147"; // SMTP password
+    $mail->Username = "noreply@seguplast.com.ar";  // SMTP username
+    $mail->Password = "Hola*147"; // SMTP password
 
-    $mail->From = "noreply@smart360.com.ar";
+    $mail->From = "noreply@seguplast.com.ar";
     $mail->FromName = "Consulta Web";
 
-    $mail->AddAddress("contacto@smart360.com.ar","Contacto");
+    $mail->AddAddress("contacto@seguplast.com.ar","Contacto");
     $mail->SMTPSecure = 'ssl';
     $mail->Port = 465;
 
